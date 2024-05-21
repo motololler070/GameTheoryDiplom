@@ -1,0 +1,27 @@
+\documentclass{mipt-thesis-bs}
+
+\usepackage{mipt-thesis-biblatex}
+\usepackage[justification=centering]{caption}
+\usepackage{glossaries}
+\usepackage{url}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage[title]{appendix}
+\addbibresource{ref.bib}
+
+
+\begin{document}
+% Абстракт
+\chapter{Введение}
+\input{chapter/overview/main}
+\chapter{Аппарат теории игр}
+\input{chapter/theory/main}
+\chapter{Моделирование}
+\input{chapter/work/main}
+\chapter{Итоги работы}
+\input{chapter/final/main}
+
+\printbib
+
+
+\end{document}
