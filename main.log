@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  14 MAY 2024 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  22 MAY 2024 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1093,9 +1093,10 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
  (./main.aux
-
-LaTeX Warning: Label `СЃombinatorial' multiply defined.
-
+! Undefined control sequence.
+l.69 \abx@au
+            
+? 
 )
 \openout1 = `main.aux'.
 
@@ -1223,4 +1224,131 @@ Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/g
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count468
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+Р“Р»Р°РІР° 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 15.
+
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 1
+5.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 15.
+
+LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 15.
+
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 15
+.
+LaTeX Font Info:    No file PUcmr.fd. on input line 15.
+
+LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 15.
+
+(./chapter/overview/main.tex (./chapter/overview/intro.tex
+Overfull \hbox (78.1082pt too wide) in paragraph at lines 4--5
+[]\T2A/cmr/m/up/12 Постановки вы-де-ля-ют-ся по-ис-ком форм гар-мо-ни-че-ско-го
+ су-ще-ство-ва-ния об-ще-ства,экономическим
+ []
+
+<assets/settings/auction_goal.excalidraw.png, id=7, 1256.695pt x 316.18124pt>
+File: assets/settings/auction_goal.excalidraw.png Graphic file (type png)
+<use assets/settings/auction_goal.excalidraw.png>
+Package pdftex.def Info: assets/settings/auction_goal.excalidraw.png  used on i
+nput line 18.
+(pdftex.def)             Requested size: 227.62206pt x 57.26718pt.
+) (./chapter/overview/basis/main.tex (./chapter/overview/basis/intro.tex)
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/settings/auction_
+goal.excalidraw.png>]
+LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
+2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+(./chapter/overview/basis/players.tex) (./chapter/overview/basis/utility.tex)
+[2] (./chapter/overview/basis/strategy.tex)
+(./chapter/overview/basis/equilibrium.tex))
+(./chapter/overview/social_choice/main.tex
+(./chapter/overview/social_choice/intro.tex [3])
+(./chapter/overview/social_choice/compete.tex)) [4]
+(./chapter/overview/organizations/main.tex
+(./chapter/overview/organizations/intro.tex)
+(./chapter/overview/organizations/cooperative.tex [5]
+Overfull \hbox (3.55472pt too wide) in paragraph at lines 11--12
+[]\T2A/cmr/m/up/12 Математически, функ-ция вы-иг-ры-ша $\OML/cmm/m/it/12 v\OT1/
+cmr/m/n/12 (\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 )$ \T2A/cmr/m/up/12 долж-на удо-в
+ле-тво-рять сле-ду-ю-щим усло-
+ []
+
+) (./chapter/overview/organizations/managment.tex [6]
+Overfull \hbox (148.12593pt too wide) in paragraph at lines 31--39
+ [] 
+ []
+
+) (./chapter/overview/organizations/team.tex [7])
+(./chapter/overview/organizations/franchise.tex))
+(./chapter/overview/monetary/main.tex (./chapter/overview/monetary/intro.tex
+[8]) (./chapter/overview/monetary/monetary.tex)
+(./chapter/overview/monetary/models.tex [9])
+(./chapter/overview/monetary/npv.tex [10]
+Overfull \hbox (87.58336pt too wide) in paragraph at lines 17--25
+ [] 
+ []
+
+))) [11] [12]
+Р“Р»Р°РІР° 2.
+(./chapter/theory/main.tex (./chapter/theory/intro.tex)
+(./chapter/theory/information/main.tex (./chapter/theory/information/intro.tex
+[13
+
+]) (./chapter/theory/information/hazard.tex
+! Undefined control sequence.
+<recently read> \С
+                  
+l.15 ...ЂРµРґРµРЅРёРµ} \textbf{РР·РґРµСЂР¶РєРё}\С
+                                                  Ѓite{}
+? 
+! Emergency stop.
+<recently read> \С
+                  
+l.15 ...ЂРµРґРµРЅРёРµ} \textbf{РР·РґРµСЂР¶РєРё}\С
+                                                  Ѓite{}
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 29786 strings out of 479721
+ 534027 string characters out of 5887697
+ 1348195 words of memory out of 5000000
+ 47196 multiletter control sequences out of 15000+600000
+ 486780 words of font info for 64 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 91i,7n,91p,1129b,23514s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
