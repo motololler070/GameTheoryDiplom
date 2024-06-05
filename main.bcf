@@ -2348,20 +2348,100 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">baron1989bargaining</bcf:citekey>
-    <bcf:citekey order="3">arrow2012social</bcf:citekey>
-    <bcf:citekey order="4">segev2005kidney</bcf:citekey>
-    <bcf:citekey order="5">шагин2016теория</bcf:citekey>
-    <bcf:citekey order="6">nash1950non</bcf:citekey>
-    <bcf:citekey order="7">arrow2012social</bcf:citekey>
-    <bcf:citekey order="8">gibbard1973manipulation</bcf:citekey>
-    <bcf:citekey order="9">groves1973incentives</bcf:citekey>
-    <bcf:citekey order="10">cobb1928theory</bcf:citekey>
-    <bcf:citekey order="11">leland1977informational</bcf:citekey>
-    <bcf:citekey order="12">groves1973incentives</bcf:citekey>
-    <bcf:citekey order="13">caves2014franchising</bcf:citekey>
-    <bcf:citekey order="14">нэш2008идеальные</bcf:citekey>
-    <bcf:citekey order="15">архипов2007предпосылки</bcf:citekey>
-    <bcf:citekey order="16">bernanke1997inflation</bcf:citekey>
-    <bcf:citekey order="18">harsanyi1967games</bcf:citekey>
-    <bcf:citekey order="19">harsanyi1968games</bcf:citekey>
-    <bcf:citekey order="20">harsanyi1968bayesian</bcf:citekey>
+    <bcf:citekey order="2">arrow2012social</bcf:citekey>
+    <bcf:citekey order="3">segev2005kidney</bcf:citekey>
+    <bcf:citekey order="4">шагин2016теория</bcf:citekey>
+    <bcf:citekey order="5">nash1950non</bcf:citekey>
+    <bcf:citekey order="6">arrow2012social</bcf:citekey>
+    <bcf:citekey order="7">gibbard1973manipulation</bcf:citekey>
+    <bcf:citekey order="8">groves1973incentives</bcf:citekey>
+    <bcf:citekey order="9">cobb1928theory</bcf:citekey>
+    <bcf:citekey order="10">leland1977informational</bcf:citekey>
+    <bcf:citekey order="11">groves1973incentives</bcf:citekey>
+    <bcf:citekey order="12">caves2014franchising</bcf:citekey>
+    <bcf:citekey order="13">нэш2008идеальные</bcf:citekey>
+    <bcf:citekey order="14">архипов2007предпосылки</bcf:citekey>
+    <bcf:citekey order="15">bernanke1997inflation</bcf:citekey>
+    <bcf:citekey order="17">harsanyi1967games</bcf:citekey>
+    <bcf:citekey order="18">harsanyi1968games</bcf:citekey>
+    <bcf:citekey order="19">harsanyi1968bayesian</bcf:citekey>
+    <bcf:citekey order="20">akerlof1978market</bcf:citekey>
+    <bcf:citekey order="21">myerson1983mechanism</bcf:citekey>
+    <bcf:citekey order="22">архипов2007предпосылки</bcf:citekey>
+    <bcf:citekey order="23">grossman1980impossibility</bcf:citekey>
+    <bcf:citekey order="24">milgrom1982theory</bcf:citekey>
+    <bcf:citekey order="25">segev2005kidney</bcf:citekey>
+    <bcf:citekey order="26">roth2005kidney</bcf:citekey>
+    <bcf:citekey order="27">ashlagi2021kidney</bcf:citekey>
+    <bcf:citekey order="28">milgrom1982theory</bcf:citekey>
+    <bcf:citekey order="29">milgrom1982value</bcf:citekey>
+    <bcf:citekey order="30">shubik1971game</bcf:citekey>
+    <bcf:citekey order="31">Bogdanov2023</bcf:citekey>
+    <bcf:citekey order="32">baron1989bargaining</bcf:citekey>
+    <bcf:citekey order="33">Bogdanov2023</bcf:citekey>
+    <bcf:citekey order="34">baron1989bargaining</bcf:citekey>
+    <bcf:citekey order="35">arrow2012social</bcf:citekey>
+    <bcf:citekey order="36">segev2005kidney</bcf:citekey>
+    <bcf:citekey order="37">шагин2016теория</bcf:citekey>
+    <bcf:citekey order="38">nash1950non</bcf:citekey>
+    <bcf:citekey order="39">gibbard1973manipulation</bcf:citekey>
+    <bcf:citekey order="40">groves1973incentives</bcf:citekey>
+    <bcf:citekey order="41">cobb1928theory</bcf:citekey>
+    <bcf:citekey order="42">leland1977informational</bcf:citekey>
+    <bcf:citekey order="43">caves2014franchising</bcf:citekey>
+    <bcf:citekey order="44">нэш2008идеальные</bcf:citekey>
+    <bcf:citekey order="45">архипов2007предпосылки</bcf:citekey>
+    <bcf:citekey order="46">bernanke1997inflation</bcf:citekey>
+    <bcf:citekey order="47">harsanyi1967games</bcf:citekey>
+    <bcf:citekey order="48">harsanyi1968games</bcf:citekey>
+    <bcf:citekey order="49">harsanyi1968bayesian</bcf:citekey>
+    <bcf:citekey order="50">akerlof1978market</bcf:citekey>
+    <bcf:citekey order="51">myerson1983mechanism</bcf:citekey>
+    <bcf:citekey order="52">grossman1980impossibility</bcf:citekey>
+    <bcf:citekey order="53">milgrom1982theory</bcf:citekey>
+    <bcf:citekey order="54">roth2005kidney</bcf:citekey>
+    <bcf:citekey order="55">ashlagi2021kidney</bcf:citekey>
+    <bcf:citekey order="56">milgrom1982value</bcf:citekey>
+    <bcf:citekey order="57">shubik1971game</bcf:citekey>
+    <bcf:citekey order="58">Bogdanov2023</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="nty">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

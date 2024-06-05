@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  22 MAY 2024 21:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  5 JUN 2024 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1093,10 +1093,9 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
  (./main.aux
-! Undefined control sequence.
-l.69 \abx@au
-            
-? 
+
+LaTeX Warning: Label `СЃombinatorial' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -1269,18 +1268,15 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 (Font)              using `PU/pdf/m/n' instead on input line 15.
 
 (./chapter/overview/main.tex (./chapter/overview/intro.tex
-Overfull \hbox (78.1082pt too wide) in paragraph at lines 4--5
-[]\T2A/cmr/m/up/12 Постановки вы-де-ля-ют-ся по-ис-ком форм гар-мо-ни-че-ско-го
- су-ще-ство-ва-ния об-ще-ства,экономическим
- []
+<assets/settings/auction_goal.excalidraw.png, id=190, 1256.695pt x 316.18124pt>
 
-<assets/settings/auction_goal.excalidraw.png, id=7, 1256.695pt x 316.18124pt>
 File: assets/settings/auction_goal.excalidraw.png Graphic file (type png)
 <use assets/settings/auction_goal.excalidraw.png>
 Package pdftex.def Info: assets/settings/auction_goal.excalidraw.png  used on i
 nput line 18.
 (pdftex.def)             Requested size: 227.62206pt x 57.26718pt.
-) (./chapter/overview/basis/main.tex (./chapter/overview/basis/intro.tex)
+)
+(./chapter/overview/basis/main.tex (./chapter/overview/basis/intro.tex)
 [1
 
 
@@ -1299,56 +1295,335 @@ File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 (./chapter/overview/social_choice/intro.tex [3])
 (./chapter/overview/social_choice/compete.tex)) [4]
 (./chapter/overview/organizations/main.tex
-(./chapter/overview/organizations/intro.tex)
-(./chapter/overview/organizations/cooperative.tex [5]
-Overfull \hbox (3.55472pt too wide) in paragraph at lines 11--12
-[]\T2A/cmr/m/up/12 Математически, функ-ция вы-иг-ры-ша $\OML/cmm/m/it/12 v\OT1/
-cmr/m/n/12 (\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 )$ \T2A/cmr/m/up/12 долж-на удо-в
-ле-тво-рять сле-ду-ю-щим усло-
+(./chapter/overview/organizations/intro.tex
+Overfull \hbox (2.54547pt too wide) in paragraph at lines 1--3
+\T2A/cmr/m/up/12 аме-ри-кан-ских эко-но-ми-стов По-ла Ду-гла-са и Чарль-за Коб-
+ба "A theory of production"[[]6[]]. 
+ []
+
+) (./chapter/overview/organizations/cooperative.tex [5]
+Overfull \hbox (0.29033pt too wide) in paragraph at lines 12--13
+[]\T2A/cmr/m/up/12 Математически функ-ция вы-иг-ры-ша $\OML/cmm/m/it/12 v\OT1/c
+mr/m/n/12 (\OML/cmm/m/it/12 S\OT1/cmr/m/n/12 )$ \T2A/cmr/m/up/12 долж-на удо-вл
+е-тво-рять сле-ду-ю-щим усло-
  []
 
 ) (./chapter/overview/organizations/managment.tex [6]
-Overfull \hbox (148.12593pt too wide) in paragraph at lines 31--39
+Overfull \hbox (148.12593pt too wide) in paragraph at lines 31--42
  [] 
  []
 
-) (./chapter/overview/organizations/team.tex [7])
-(./chapter/overview/organizations/franchise.tex))
-(./chapter/overview/monetary/main.tex (./chapter/overview/monetary/intro.tex
-[8]) (./chapter/overview/monetary/monetary.tex)
-(./chapter/overview/monetary/models.tex [9])
-(./chapter/overview/monetary/npv.tex [10]
+[7]) (./chapter/overview/organizations/team.tex)
+(./chapter/overview/organizations/franchise.tex [8]))
+(./chapter/overview/monetary/main.tex (./chapter/overview/monetary/intro.tex)
+(./chapter/overview/monetary/monetary.tex [9])
+(./chapter/overview/monetary/models.tex [10])
+(./chapter/overview/monetary/npv.tex
 Overfull \hbox (87.58336pt too wide) in paragraph at lines 17--25
  [] 
  []
 
-))) [11] [12]
+[11]
+<assets/overview/cash_flow.excalidraw.png, id=284, 633.36626pt x 346.29375pt>
+File: assets/overview/cash_flow.excalidraw.png Graphic file (type png)
+<use assets/overview/cash_flow.excalidraw.png>
+Package pdftex.def Info: assets/overview/cash_flow.excalidraw.png  used on inpu
+t line 41.
+(pdftex.def)             Requested size: 227.62206pt x 124.449pt.
+))) [12 <./assets/overview/cash_flow.excalidraw.png>]
 Р“Р»Р°РІР° 2.
 (./chapter/theory/main.tex (./chapter/theory/intro.tex)
 (./chapter/theory/information/main.tex (./chapter/theory/information/intro.tex
 [13
 
-]) (./chapter/theory/information/hazard.tex
-! Undefined control sequence.
-<recently read> \С
-                  
-l.15 ...ЂРµРґРµРЅРёРµ} \textbf{РР·РґРµСЂР¶РєРё}\С
-                                                  Ѓite{}
-? 
-! Emergency stop.
-<recently read> \С
-                  
-l.15 ...ЂРµРґРµРЅРёРµ} \textbf{РР·РґРµСЂР¶РєРё}\С
-                                                  Ѓite{}
-End of file on the terminal!
+]) (./chapter/theory/information/hazard.tex)
+(./chapter/theory/information/setting.tex [14])
+(./chapter/theory/information/paradox.tex [15]))
+(./chapter/theory/auctions/main.tex (./chapter/theory/auctions/types.tex)
+(./chapter/theory/auctions/vikri.tex [16])
+(./chapter/theory/auctions/theorems.tex) [17]
+(./chapter/theory/auctions/generalization.tex
+<assets/auctions/combinatorial.excalidraw.png, id=330, 509.905pt x 339.2675pt>
+File: assets/auctions/combinatorial.excalidraw.png Graphic file (type png)
+<use assets/auctions/combinatorial.excalidraw.png>
+Package pdftex.def Info: assets/auctions/combinatorial.excalidraw.png  used on 
+input line 9.
+(pdftex.def)             Requested size: 227.62206pt x 151.45241pt.
+<assets/auctions/reversed.excalidraw.png, id=332, 532.99126pt x 311.1625pt>
+File: assets/auctions/reversed.excalidraw.png Graphic file (type png)
+<use assets/auctions/reversed.excalidraw.png>
+Package pdftex.def Info: assets/auctions/reversed.excalidraw.png  used on input
+ line 27.
+(pdftex.def)             Requested size: 227.62206pt x 132.88565pt.
+))
+(./chapter/theory/mechanism/main.tex (./chapter/theory/mechanism/intro.tex
 
- 
+LaTeX Warning: Citation 'roth2005kidney' on page 18 undefined on input line 2.
+
+
+LaTeX Warning: Citation 'ashlagi2021kidney' on page 18 undefined on input line 
+2.
+
+[18 <./assets/auctions/combinatorial.excalidraw.png> <./assets/auctions/reverse
+d.excalidraw.png>]) (./chapter/theory/mechanism/setting.tex [19])
+(./chapter/theory/mechanism/vcg.tex
+<assets/mechanism/vcg.excalidraw.png, id=354, 456.70625pt x 286.06876pt>
+File: assets/mechanism/vcg.excalidraw.png Graphic file (type png)
+<use assets/mechanism/vcg.excalidraw.png>
+Package pdftex.def Info: assets/mechanism/vcg.excalidraw.png  used on input lin
+e 5.
+(pdftex.def)             Requested size: 227.62206pt x 142.57568pt.
+))) [20 <./assets/mechanism/vcg.excalidraw.png>]
+Р“Р»Р°РІР° 3.
+(./chapter/work/main.tex (./chapter/work/info/main.tex
+(./chapter/work/info/intro.tex
+<assets/settings/insider.excalidraw.png, id=361, 506.89375pt x 436.63126pt>
+File: assets/settings/insider.excalidraw.png Graphic file (type png)
+<use assets/settings/insider.excalidraw.png>
+Package pdftex.def Info: assets/settings/insider.excalidraw.png  used on input 
+line 6.
+(pdftex.def)             Requested size: 227.62206pt x 196.06917pt.
+) (./chapter/work/info/law.tex [21
+
+ <./assets/settings/insider.excalidraw.png>] [22]
+Overfull \hbox (43.03569pt too wide) in paragraph at lines 49--53
+[]\T2A/cmr/m/up/12 Образовательное учре-жде-ние, са-мо-сто-я-тель-но опре-де-ля
+-ет рас-пре-де-ле-ние на материально-
+ []
+
+) (./chapter/work/info/setting.tex [23]
+
+LaTeX Warning: Citation 'Bogdanov2023' on page 24 undefined on input line 38.
+
+) (./chapter/work/info/full.tex
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 3.
+
+[24]
+Overfull \hbox (75.49356pt too wide) detected at line 12
+[][]\OT1/cmr/m/n/12 E\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 (^^A\OML/cmm/m/it/12 M[]
+\OT1/cmr/m/n/12 ) = (\OML/cmm/m/it/12 Pn \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 ^
+^A\OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (^^A\O
+ML/cmm/m/it/12 M[] > \OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 M[]; [] ; n \OMS/cmsy/
+m/n/12 ^^@ \OT1/cmr/m/n/12 1) = (\OML/cmm/m/it/12 Pn \OMS/cmsy/m/n/12 ^^@ \OT1/
+cmr/m/n/12 ^^A\OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 p\OT1/cmr/m
+/n/12 (^^A\OML/cmm/m/it/12 M[] > \OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 M[]\OT1/cm
+r/m/n/12 )\OML/cmm/m/it/12 :::p\OT1/cmr/m/n/12 (^^A\OML/cmm/m/it/12 M[] > \OT1/
+cmr/m/n/12 ^^A\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 1)
+ []
+
+<assets/settings/collusion.excalidraw.png, id=390, 475.7775pt x 242.9075pt>
+File: assets/settings/collusion.excalidraw.png Graphic file (type png)
+<use assets/settings/collusion.excalidraw.png>
+Package pdftex.def Info: assets/settings/collusion.excalidraw.png  used on inpu
+t line 17.
+(pdftex.def)             Requested size: 227.62206pt x 116.2125pt.
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 23.
+
+[25 <./assets/settings/collusion.excalidraw.png>]
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 44.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 44.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 44.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 44.
+
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no и in font cmr12!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 45.
+
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no и in font cmr12!
+
+Overfull \hbox (122.35399pt too wide) detected at line 53
+[][]\OML/cmm/m/it/12 Ei\OT1/cmr/m/n/12 (^^A\OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 
+) = (\OML/cmm/m/it/12 Pi \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/
+12 M[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (^^A\OML/cmm/m/it/12 M
+[] > \OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 M[]; [] ; M[]; M[]; ::; M[]\OT1/cmr/m/
+n/12 ) == (\OML/cmm/m/it/12 P[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 ^^A\OML/cm
+m/m/it/12 M[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 (^^A\OML/cmm/m/
+it/12 M[] > \OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 ) [] \OML/cm
+m/m/it/12 p\OT1/cmr/m/n/12 (^^A\OML/cmm/m/it/12 M[] > \OT1/cmr/m/n/12 ^^A\OML/c
+mm/m/it/12 M[]\OT1/cmr/m/n/12 )
+ []
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 63.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 63.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 63.
+
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+) [26]) (./chapter/work/bargain/main.tex (./chapter/work/bargain/intro.tex)
+(./chapter/work/bargain/two_player.tex [27])
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 5.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 5.
+
+(./chapter/work/bargain/n_player.tex [28])) [29] (./chapter/work/debt/main.tex
+(./chapter/work/debt/intro.tex
+<assets/settings/bank.excalidraw.png, id=430, 504.88625pt x 563.10374pt>
+File: assets/settings/bank.excalidraw.png Graphic file (type png)
+<use assets/settings/bank.excalidraw.png>
+Package pdftex.def Info: assets/settings/bank.excalidraw.png  used on input lin
+e 6.
+(pdftex.def)             Requested size: 227.62206pt x 253.86691pt.
+) (./chapter/work/debt/setting.tex [30 <./assets/settings/bank.excalidraw.png>]
+) (./chapter/work/debt/base.tex
+
+LaTeX Warning: Citation 'Bogdanov2023' on page 31 undefined on input line 1.
+
+<assets/settings/dynamic.excalidraw.png, id=437, 1016.79875pt x 590.205pt>
+File: assets/settings/dynamic.excalidraw.png Graphic file (type png)
+<use assets/settings/dynamic.excalidraw.png>
+Package pdftex.def Info: assets/settings/dynamic.excalidraw.png  used on input 
+line 7.
+(pdftex.def)             Requested size: 227.62206pt x 132.12396pt.
+))) [31 <./assets/settings/dynamic.excalidraw.png>] [32]
+Р“Р»Р°РІР° 4.
+(./chapter/final/main.tex (./chapter/final/results.tex)
+(./chapter/final/discussion.tex) (./chapter/final/final.tex [33
+
+])) [34]
+Overfull \hbox (1.17015pt too wide) in paragraph at lines 25--25
+[]\T2A/cmr/m/up/12 Allan Gibbard. ѕ  Manipulation of voting schemes: a general 
+resultї. В: \T2A/cmr/m/it/12 Econometrica:
+ []
+
+
+Overfull \hbox (9.43292pt too wide) in paragraph at lines 25--25
+[]\T2A/cmr/m/up/12 Theodore Groves. ѕ  Incentives in teamsї. В: \T2A/cmr/m/it/1
+2 Econometrica: Journal of the Econometric
+ []
+
+
+Overfull \hbox (0.62723pt too wide) in paragraph at lines 25--25
+[]\T2A/cmr/m/up/12 John C Harsanyi. ѕ  Games with incomplete information played
+ by ^^PBayesian^^Q players,
+ []
+
+[35
+
+]
+Overfull \hbox (15.77809pt too wide) in paragraph at lines 25--25
+[]\T2A/cmr/m/up/12 Martin Shubik, Lloyd S Shapley. ѕ  Game Theory in Economics:
+ Chapter 1, Introduction,
+ []
+
+[36] (./main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: DCA15F987C48BB6320ECA888ECCE1F58;9402.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 37 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 29786 strings out of 479721
- 534027 string characters out of 5887697
- 1348195 words of memory out of 5000000
- 47196 multiletter control sequences out of 15000+600000
- 486780 words of font info for 64 fonts, out of 8000000 for 9000
+ 30237 strings out of 479721
+ 546272 string characters out of 5887697
+ 1352994 words of memory out of 5000000
+ 47456 multiletter control sequences out of 15000+600000
+ 492138 words of font info for 80 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 91i,7n,91p,1129b,23514s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 91i,9n,91p,2315b,23948s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </root/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lasl12
+00.600pk> </root/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0800.600p
+k> </root/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </ro
+ot/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </root/.tex
+live2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lasi1728.600pk> </root/.texlive202
+1/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk> </root/.texlive2021/texmf
+-var/fonts/pk/ljfour/lh/lh-t2a/lati1440.600pk> </root/.texlive2021/texmf-var/fo
+nts/pk/ljfour/jknappen/ec/tcrm1200.600pk> </root/.texlive2021/texmf-var/fonts/p
+k/ljfour/lh/lh-t2a/larm1200.600pk> </root/.texlive2021/texmf-var/fonts/pk/ljfou
+r/lh/lh-t2a/labx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (36 pages, 661407 bytes).
+PDF statistics:
+ 1068 PDF objects out of 1200 (max. 8388607)
+ 494 compressed objects within 5 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 414 words of extra memory for PDF output out of 10000 (max. 10000000)
+
