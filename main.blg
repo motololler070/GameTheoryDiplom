@@ -1,22 +1,19 @@
-[0] Config.pm:307> INFO - This is Biber 2.17
-[1] Config.pm:310> INFO - Logfile is 'main.blg'
-[148] biber:340> INFO - === Tue May 14, 2024, 21:23:09
-[173] Biber.pm:418> INFO - Reading 'main.bcf'
-[271] Biber.pm:972> INFO - Found 23 citekeys in bib section 0
+[2] Config.pm:307> INFO - This is Biber 2.17
+[3] Config.pm:310> INFO - Logfile is 'main.blg'
+[142] biber:340> INFO - === Thu Jun  6, 2024, 14:19:05
+[166] Biber.pm:418> INFO - Reading 'main.bcf'
+[270] Biber.pm:972> INFO - Found 23 citekeys in bib section 0
 [294] Biber.pm:4383> INFO - Processing section 0
-[312] Biber.pm:4574> INFO - Looking for bibtex file 'ref.bib' for section 0
+[313] Biber.pm:4574> INFO - Looking for bibtex file 'ref.bib' for section 0
 [316] bibtex.pm:1713> INFO - LaTeX decoding ...
-[375] bibtex.pm:1518> INFO - Found BibTeX data source 'ref.bib'
-[543] Utils.pm:398> ERROR - Name "Богданов, А.Д., Колобов, Д.В., Щепкин, А.В." has too many commas, skipping entry 'Bogdanov2023'
-[640] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[642] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[642] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
-[642] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
-[692] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[709] bbl.pm:757> INFO - Output to main.bbl
-[710] Biber.pm:130> WARN - Duplicate entry key: 'bellman1966dynamic' in file 'ref.bib', skipping ...
-[711] Biber.pm:130> WARN - Duplicate entry key: 'grossman1980impossibility' in file 'ref.bib', skipping ...
-[711] Biber.pm:130> WARN - Duplicate entry key: 'groves1973incentives' in file 'ref.bib', skipping ...
-[711] Biber.pm:130> WARN - Entry with key 'Bogdanov2023' in section '0' is cited and found but not created (likely due to sourcemap)
-[711] Biber.pm:132> INFO - WARNINGS: 4
-[711] Biber.pm:135> INFO - ERRORS: 1
+[397] bibtex.pm:1518> INFO - Found BibTeX data source 'ref.bib'
+[803] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[806] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[806] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[806] Biber.pm:4209> INFO - No sort tailoring available for locale 'ru-RU'
+[854] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[875] bbl.pm:757> INFO - Output to main.bbl
+[876] Biber.pm:130> WARN - Duplicate entry key: 'bellman1966dynamic' in file 'ref.bib', skipping ...
+[877] Biber.pm:130> WARN - Duplicate entry key: 'grossman1980impossibility' in file 'ref.bib', skipping ...
+[877] Biber.pm:130> WARN - Duplicate entry key: 'groves1973incentives' in file 'ref.bib', skipping ...
+[877] Biber.pm:132> INFO - WARNINGS: 3
